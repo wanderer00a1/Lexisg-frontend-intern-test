@@ -2,7 +2,7 @@
 
 A legal assistant interface that simulates the Lexi system with citations and PDF linking.
 
-![App Preview](./ss/preview.png)
+![App Preview](./ss/Screenshot.png)
 
 ## Setup Instructions
 
